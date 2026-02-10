@@ -1,0 +1,9 @@
+Al desarrollar este proyecto pude aplicar los contenidos vistos durante el módulo, 
+especialmente el uso de clases, objetos y estructuras de control. 
+Al inicio tuve dificultades con la indentación en Python, 
+lo que provocó que el menú no funcionara correctamente, 
+pero al corregirlo logré que el programa respondiera como esperaba.
+
+También aprendí a crear un menú interactivo utilizando un ciclo while y condicionales, 
+lo que me ayudó a entender mejor la lógica de los programas. 
+Este proyecto me permitió practicar de forma más concreta la programación orientada a objetos y comprender cómo organizar mejor el código.
